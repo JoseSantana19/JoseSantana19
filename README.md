@@ -47,6 +47,6 @@
 
 ###
 
-<p align="left">Bem-vindo ao meu repositório! 🚀  <br>Este repositório é dedicado aos meus estudos e projetos práticos nas áreas de Machine Learning, Análise de Dados** e **algoritmos em Python**, com foco no desenvolvimento de:<br><br>- 🧠 Pensamento analítico<br>- 🧩 Lógica de programação<br>- 📊 Análise e interpretação de dados<br>- ⚙️ Habilidades práticas em ferramentas e bibliotecas<br><br>🎯 Objetivo<br>O principal objetivo deste repositório é consolidar conhecimentos por meio da prática, aplicando conceitos de:<br><br>- 📊 Análise de Dados<br>- 🤖 Machine Learning<br>- 🐍 Algoritmos e estruturas em Python<br>- 📈 Visualização de dados<br>- 🧠 Resolução de problemas e raciocínio lógico</p>
+<p align="left">Bem-vindo ao meu repositório! 🚀  <br>Este repositório é dedicado aos meus estudos e projetos práticos nas áreas de Machine Learning, Análise de Dados e algoritmos em Python, com foco no desenvolvimento de:<br><br>- 🧠 Pensamento analítico<br>- 🧩 Lógica de programação<br>- 📊 Análise e interpretação de dados<br>- ⚙️ Habilidades práticas em ferramentas e bibliotecas<br><br>🎯 Objetivo<br>O principal objetivo deste repositório é consolidar conhecimentos por meio da prática, aplicando conceitos de:<br><br>- 📊 Análise de Dados<br>- 🤖 Machine Learning<br>- 🐍 Algoritmos e estruturas em Python<br>- 📈 Visualização de dados<br>- 🧠 Resolução de problemas e raciocínio lógico</p>
 
 ###
