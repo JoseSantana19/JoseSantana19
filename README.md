@@ -24,29 +24,36 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="powerbi logo" />
 </div>
 
 ###
 
-<h2 align="left">📊🤖🐍 Estudos em Machine Learning, Análise de Dados e Algoritmos em Python</h2>
+<h2 align="left">💻📊 Repositório de Projetos, Exercícios e Desafios em Python, SQL e Power BI</h2>
 
 ###
 
-<p align="left">Bem-vindo ao meu repositório! 🚀  <br>Este repositório é dedicado aos meus estudos e projetos práticos nas áreas de Machine Learning, Análise de Dados e algoritmos em Python, com foco no desenvolvimento de:<br><br>- 🧠 Pensamento analítico<br>- 🧩 Lógica de programação<br>- 📊 Análise e interpretação de dados<br>- ⚙️ Habilidades práticas em ferramentas e bibliotecas<br><br>🎯 Objetivo<br>O principal objetivo deste repositório é consolidar conhecimentos por meio da prática, aplicando conceitos de:<br><br>- 📊 Análise de Dados<br>- 🤖 Machine Learning<br>- 🐍 Algoritmos e estruturas em Python<br>- 📈 Visualização de dados<br>- 🧠 Resolução de problemas e raciocínio lógico</p>
+<p align="left">
+Bem-vindo ao meu repositório! 🚀 <br>
+Este repositório é um espaço onde armazeno meus estudos e projetos práticos em Python, incluindo pequenos projetos, soluções para exercícios de programação e programação competitiva, além de desafios em SQL.<br><br>
+
+Também compartilho aqui projetos voltados para Análise de Dados e Machine Learning, aplicando conceitos na prática e explorando diferentes ferramentas e técnicas.<br><br>
+
+O objetivo é registrar minha evolução, organizar minhas soluções e consolidar conhecimentos por meio da prática e da resolução de problemas.
+</p>
 
 ###
